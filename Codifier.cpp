@@ -242,6 +242,7 @@ int main() {
 			cout << "ERROR." << endl;
 			break;
 	}
+	getch();
 }
 
 
